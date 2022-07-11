@@ -1,0 +1,1 @@
+a simple printf function in c
